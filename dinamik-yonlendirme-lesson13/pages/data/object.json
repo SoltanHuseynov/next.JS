@@ -1,0 +1,16 @@
+
+{
+    "name":[
+        "admin",
+        "zero",
+        "wolker",
+        "00z"
+    ],
+    "age":[16,17,18,19],
+    "ID":null,
+    "proje":{
+        "admin":true,
+        "zero": true
+    },
+    "link":"https://translate.google.com"
+}
